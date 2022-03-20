@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobSearch.Web", "JobSearch.Web\JobSearch.Web.csproj", "{EE24D523-2EB6-4B47-9F7B-01FDE6E45781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobSearch.Data", "JobSearch.Data\JobSearch.Data.csproj", "{F24F9EB1-3D73-41BB-9AD3-1F29620AA1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE24D523-2EB6-4B47-9F7B-01FDE6E45781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24D523-2EB6-4B47-9F7B-01FDE6E45781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24D523-2EB6-4B47-9F7B-01FDE6E45781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24D523-2EB6-4B47-9F7B-01FDE6E45781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24F9EB1-3D73-41BB-9AD3-1F29620AA1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F9EB1-3D73-41BB-9AD3-1F29620AA1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F9EB1-3D73-41BB-9AD3-1F29620AA1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F9EB1-3D73-41BB-9AD3-1F29620AA1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24BED281-1CFE-4694-8ACF-653303D84388}
+	EndGlobalSection
+EndGlobal
